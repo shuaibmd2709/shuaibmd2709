@@ -1,7 +1,22 @@
-## Hi there 👋
+## Hello!! I am Shuaib.
 
-I am Shuaib, a masters student in Berlin. I am studying Robotics, Automation. Currently focused on Applied Machine Learning, Deep Learning & Predictive Systems.
+Master's in Engineering Technology & Sustainable Technology Management
 
-- 🔭 I’m currently working on Financial Fraud Dectection Using GNNs.
-- 🌱 I’m currently learning to building RAG agents.
+💻 AI Developer and ML Engineer.
 
+------------------------------------------------------------------------------------------------
+🚀 What I Do
+
+- Build AI-powered solutions
+
+- Build n8n automated workflows
+
+- Data engineering and formulating ML models
+
+------------------------------------------------------------------------------------------------
+💡 I Code With
+
+- Python
+- Docker
+- n8n
+------------------------------------------------------------------------------------------------

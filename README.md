@@ -19,4 +19,6 @@ Master's in Engineering Technology & Sustainable Technology Management
 - Python
 - Docker
 - n8n
+- SQL
+- FastAPI
 ------------------------------------------------------------------------------------------------

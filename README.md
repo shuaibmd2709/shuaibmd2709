@@ -1,24 +1,19 @@
 ## Hello!! I am Shuaib.
-
-Master's in Engineering Technology & Sustainable Technology Management
-
-💻 AI Developer and ML Engineer.
+## PROGRAMMER, AI/MACHINE LEARNING ENIGNEER AND DATA SCIENTIST
 
 ------------------------------------------------------------------------------------------------
-🚀 What I Do
 
-- Build AI-powered solutions
-
-- Build n8n automated workflows
-
-- Data engineering and formulating ML models
+### AIML PROJECTS
 
 ------------------------------------------------------------------------------------------------
-💡 I Code With
+* https://github.com/shuaibmd2709/Insurance-premium-Detector
+* https://github.com/shuaibmd2709/Personal-assistant
+* https://github.com/shuaibmd2709/Inventory-Manager-FastAPI-SQL-
+* https://github.com/shuaibmd2709/NVIDA-STOCK-PREDICTION-RF-MODEL
+* https://github.com/shuaibmd2709/customer_behaviour_analysis-SQL-POWERBI
+------------------------------------------------------------------------------------------------
+## 📫 Connect with me
 
-- Python
-- Docker
-- n8n
-- SQL
-- FastAPI
+- [LinkedIn](https://www.linkedin.com/in/shuaib-md-420a34216)
+
 ------------------------------------------------------------------------------------------------

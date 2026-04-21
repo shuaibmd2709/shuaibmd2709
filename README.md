@@ -7,6 +7,7 @@
 
 ------------------------------------------------------------------------------------------------
 * https://github.com/shuaibmd2709/Insurance-premium-Detector
+* https://github.com/shuaibmd2709/Amazon-USA-sales-analysis
 * https://github.com/shuaibmd2709/Personal-assistant
 * https://github.com/shuaibmd2709/Inventory-Manager-FastAPI-SQL-
 * https://github.com/shuaibmd2709/NVIDA-STOCK-PREDICTION-RF-MODEL

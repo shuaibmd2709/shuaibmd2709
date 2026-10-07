@@ -1,5 +1,5 @@
 ## Hello!! I am Shuaib.
-## PROGRAMMER, AI/MACHINE LEARNING ENGINEER AND DATA SCIENTIST
+## AI ML Engineer
 
 ------------------------------------------------------------------------------------------------
 

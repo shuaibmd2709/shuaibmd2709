@@ -1,17 +1,13 @@
 ## Hello!! I am Shuaib.
-## AI ML Engineer
+## Master's in Engineering Technology & Sustainable Technology Management
+## AI DEVELOPER
 
 ------------------------------------------------------------------------------------------------
 
-### AIML PROJECTS
+### RAG 
 
 ------------------------------------------------------------------------------------------------
-* https://github.com/shuaibmd2709/Insurance-premium-Detector
-* https://github.com/shuaibmd2709/Amazon-USA-sales-analysis
-* https://github.com/shuaibmd2709/Personal-assistant
-* https://github.com/shuaibmd2709/Inventory-Manager-FastAPI-SQL-
-* https://github.com/shuaibmd2709/NVIDA-STOCK-PREDICTION-RF-MODEL
-* https://github.com/shuaibmd2709/customer_behaviour_analysis-SQL-POWERBI
+https://github.com/shuaibmd2709/agent_rag
 ------------------------------------------------------------------------------------------------
 ## 📫 Connect with me
 
